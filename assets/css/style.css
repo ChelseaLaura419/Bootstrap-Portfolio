@@ -1,0 +1,34 @@
+body {
+    background-image: url(../images/dust_scratches.png)
+}
+
+.container {
+    height: auto;
+    width: 960px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #ffffff;
+    margin-top: 30px;
+    border: 1px solid #dddddd;
+    border-radius: 10px;
+    justify-content: center;
+}
+
+h3 {
+    color: #614051;
+    font-size: 20px;
+    font-style: bold;
+    border-bottom: 3px solid #cccccc;
+    padding: 10px 0px
+}
+
+.btn {
+    background-color: #614051;
+    color: #ffffff;
+    border: none;
+}
+
+.btn:hover {
+    background-color: goldenrod;
+    border: none;
+}
